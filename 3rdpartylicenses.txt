@@ -1,3 +1,5 @@
+@angular-primitives/date
+
 @angular-primitives/intersection-observer
 
 @angular/common
