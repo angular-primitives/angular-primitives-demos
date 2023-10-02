@@ -2,6 +2,8 @@
 
 @angular-primitives/intersection-observer
 
+@angular-primitives/timer
+
 @angular/common
 MIT
 
